@@ -9,3 +9,17 @@
 * сильно различаются собственные значения или некоторые из них близки к нулю;
 * в матрице X есть почти линейно зависимые столбцы.
 
+## Пример работы алгоритма:
+
+Примеры в виде графика:<br />
+<img src="https://raw.githubusercontent.com/DmitryFox/MachineLearning/master/Task_2_4_RidgeRegression/image/ridge_regresion.png" width="350" /><br />
+
+Среднеквадратическая ошибка.
+
+Alpha | SSE
+------------- | -------------
+0  | 40.54630605019643
+20 | 211.05034734214118
+
+
+Решение оформлено в Jupyter: <a href='/Task_2_4_RidgeRegression/RidgeRegression.ipynb'>ссылка</a>.
