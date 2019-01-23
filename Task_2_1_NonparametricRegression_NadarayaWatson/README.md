@@ -25,7 +25,7 @@ def nadaraya_watson(value, x, y, h, kernel, metric):
 Принимает аргументы: `value` - искомое, оптимальное значение в точке x;  `x` - вектор объектов;  `y` - вектор ответов; `h` - коэффициент сглаживания (ширина окна); `kernel` - функция ядра; `metric` - функция метрики (находящая длину).
 
 Пример в виде графика:<br />
-<img src="https://raw.githubusercontent.com/DmitryFox/MachineLearning/master/Task%204/image/nadaray_watson_gauss_and_quartic.png" width="350" />
+<img src="https://raw.githubusercontent.com/DmitryFox/MachineLearning/master/Task_2_1_NonparametricRegression_NadarayaWatson/image/nadaray_watson_gauss_and_quartic.png" width="350" />
 
 <br />
 
