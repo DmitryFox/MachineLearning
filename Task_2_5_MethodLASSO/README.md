@@ -5,6 +5,15 @@
 
 Метод регуляризации внешне похож на гребневую регрессию, но приводит к качественно иному поведению вектора коэффициентов. Вместо добавления
 штрафного слагаемого к функционалу качества вводится ограничение-неравенство,
-запрещающее слишком большие абсолютные значения коэффициентов:
+запрещающее слишком большие абсолютные значения коэффициентов.
 
-![equation](https://latex.codecogs.com/gif.latex?\left\{\begin{array}{l}{Q(\alpha)=\|F%20\alpha-y\|^{2}%20\rightarrow%20\min%20_{\alpha}}%20\\%20{\sum_{j=1}^{n}\left|\alpha_{j}\right|%20\leqslant%20x}\end{array}\right.)
+## Пример работы алгоритма:
+
+Примеры в виде графика:<br />
+<img src="https://github.com/DmitryFox/MachineLearning/blob/master/Task_2_5_MethodLASSO/image/lasso.png?raw=true" width="350" /><br />
+
+Среднеквадратическая ошибка.
+2.9970890954563814
+
+
+Решение оформлено в Jupyter: <a href='/Task_2_5_MethodLASSO/LASSO.ipynb'>ссылка</a>.
