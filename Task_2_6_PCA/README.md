@@ -16,4 +16,4 @@
 <img src="https://github.com/DmitryFox/MachineLearning/blob/master/Task_2_6_PCA/image/PCA.png" width="350" /><br />
 
 
-Решение оформлено в Jupyter: <a href='/Task_2_6_PCA/PCA
+Решение оформлено в Jupyter: <a href='/Task_2_6_PCA/PCA.ipynb'>ссылка</a>.
