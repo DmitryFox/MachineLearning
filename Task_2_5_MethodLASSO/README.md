@@ -7,4 +7,15 @@
 штрафного слагаемого к функционалу качества вводится ограничение-неравенство,
 запрещающее слишком большие абсолютные значения коэффициентов:
 
-![equation](https://latex.codecogs.com/gif.latex?\left\{\begin{array}{l}{Q(\alpha)=\|F%20\alpha-y\|^{2}%20\rightarrow%20\min%20_{\alpha}}%20\\%20{\sum_{j=1}^{n}\left|\alpha_{j}\right|%20\leqslant%20x}\end{array}\right.)
+<img src="https://authed.asuscomm.com/screenshot/_23-01-19_00:40:55_af612c.png" width="350" /><br />
+
+## Пример работы алгоритма:
+
+Примеры в виде графика:<br />
+<img src="https://github.com/DmitryFox/MachineLearning/blob/master/Task_2_5_MethodLASSO/image/lasso.png?raw=true" width="350" /><br />
+
+Среднеквадратическая ошибка.
+2.9970890954563814
+
+
+Решение оформлено в Jupyter: <a href='/Task_2_5_MethodLASSO/LASSO.ipynb'>ссылка</a>.
